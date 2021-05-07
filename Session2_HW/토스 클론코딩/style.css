@@ -1,0 +1,61 @@
+body{
+    display: flex;
+}
+.bank{
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.h1_cont{
+    margin-top: 80px;
+    margin-left: 68px;
+}
+.h2_cont{
+    margin-top: 154px;
+    margin-left: 68px;
+
+}
+.left{
+    margin-right: 108px;
+}
+.h1{
+    font-size: 65px;
+    color:#535252;
+    font-weight: 800;
+}
+.h2{
+    font-size: 19px;
+    color:#6d6b6b;
+    font-weight: 500;
+}
+.h3{
+    font-weight: 600;
+    font-size: 19px;
+    color:#1269aa;
+    margin-top: 82px;
+    margin-left: 68px;
+}
+.bank_ele{
+    display: flex;
+    box-shadow: 0 30px 60px 12px rgb(0 0 33 / 5%), 0 4px 24px 0 rgb(0 0 33 / 5%), 0 0 1px 0 rgb(0 0 33 / 9%);
+    border-radius: 10px;
+    width: 534px;
+    height: 100px;
+    margin: 26px;
+    align-items: center;
+}
+img{
+    width: 58px;
+    height: 58px;
+    margin: 0 30px;
+}
+.bank_title{
+    color: #807c7c;
+    font-weight: 550;
+}
+.money{
+    margin-left: 228px;
+    font-weight: 600;
+}
+.NH{
+    margin-left: 186px; ;
+}
